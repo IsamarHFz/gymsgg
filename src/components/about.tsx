@@ -5,6 +5,7 @@ export default function About() {
       <p>
         Hola, este es la pantalla de About 
       </p>
+      <p>hola como te llms de qui a mayo</p>
     </div>
   )
 }
