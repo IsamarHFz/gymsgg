@@ -16,7 +16,8 @@ export default function About() {
         <ul className="list-disc list-inside text-lg space-y-1">
           <li>Álvaro Aguirre Palestina</li>
           <li>Martha Isabel Hernández Fernández</li>
-          <li>Ángel Gustavo Damián González</li>
+          <li>Gustavo Ángel Damián González alias el mencho</li>
+          <li>Juan Manuel Hernandez Sanchez </li>
         </ul>
       </main>
 
